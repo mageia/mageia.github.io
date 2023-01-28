@@ -1,4 +1,4 @@
-<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mageia Site</title><link>https://blog.mageia.site/</link><description>Recent content on Mageia Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Mageia Site</copyright><lastBuildDate>Sat, 28 Jan 2023 14:41:23 +0800</lastBuildDate><atom:link href="https://blog.mageia.site/index.xml" rel="self" type="application/rss+xml"/><item><title>Opc</title><link>https://blog.mageia.site/opc/</link><pubDate>Sat, 28 Jan 2023 14:41:23 +0800</pubDate><guid>https://blog.mageia.site/opc/</guid><description>Mageia Site https://blog.mageia.site/opc/ -&lt;h2 id="opc-简介">OPC 简介&lt;/h2>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mageia Site</title><link>https://mageia.site/</link><description>Recent content on Mageia Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Mageia Site</copyright><lastBuildDate>Sat, 28 Jan 2023 14:41:23 +0800</lastBuildDate><atom:link href="https://mageia.site/index.xml" rel="self" type="application/rss+xml"/><item><title>Opc</title><link>https://mageia.site/opc/</link><pubDate>Sat, 28 Jan 2023 14:41:23 +0800</pubDate><guid>https://mageia.site/opc/</guid><description>Mageia Site https://mageia.site/opc/ -&lt;h2 id="opc-简介">OPC 简介&lt;/h2>
 &lt;p>OPC是工业自动化领域和其他行业中安全和可靠的数据交换的互操作性标准。它是独立于平台的，并确保来自多个供应商的设备之间信息的无缝流动。OPC基金会负责该标准的开发和维护。&lt;/p>
 &lt;p>1994 年，来自不同工业学科的专家共同组建了 OPC Foundation。其宗旨是开发一种单一的客户端/服务器规范，使供应商能够开发出拥有快速强大数据共享功能的应用程序，同时消除专有协议限制，避免供应商的重复开发工作。&lt;/p>
 &lt;p>1996 年，OPC Foundation 发布了首个规范：Data Access Specification 1.0a。此规范可以帮助供应商快速完成客户端/服务器软件的开发。&lt;/p>
@@ -28,4 +28,4 @@
 &lt;li>&lt;a href="https://opcfoundation.org/about/what-is-opc/">https://opcfoundation.org/about/what-is-opc/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.ptc.com/cn/technologies/iiot/industrial-automation/opc">https://www.ptc.com/cn/technologies/iiot/industrial-automation/opc&lt;/a>&lt;/li>
 &lt;/ol>
-- https://blog.mageia.site/opc/ - Mageia Site</description></item></channel></rss>
+- https://mageia.site/opc/ - Mageia Site</description></item></channel></rss>
